@@ -79,3 +79,25 @@ hr {
     text-align: center;
     width: 70%;
 }
+
+#verde {
+    display: none;
+    color: green;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 10px auto;
+    text-align: center;
+    text-decoration: none;
+    width: 10%;
+}
+
+#rojo {
+    display: none;
+    color: red;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 10px auto;
+    text-align: center;
+    text-decoration: none;
+    width: 28%;
+}

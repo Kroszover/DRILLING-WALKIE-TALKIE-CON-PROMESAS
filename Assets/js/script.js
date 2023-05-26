@@ -8,3 +8,10 @@
 6.- La interfaz de usuario debe proporcionar una forma clara para que el usuario ingrese un mensaje y seleccione un destinatario.
 7.- La aplicación debe tener un comportamiento predecible y consistente en términos de cómo maneja las Promesas y muestra las notificaciones y advertencias.
 8.- La aplicación debe funcionar correctamente y cumplir con todos los requisitos establecidos.*/
+
+//Constantes y variables
+const mensaje = document.getElementById("mensaje");
+const destinatario = document.getElementById("destinatario");
+const btnEnviar = document.getElementById("btnEnviar");
+const success = document.getElementById("verde");
+const wrong = document.getElementById("rojo");
