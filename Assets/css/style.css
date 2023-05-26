@@ -101,3 +101,7 @@ hr {
     text-decoration: none;
     width: 28%;
 }
+
+.show {
+    display: block !important;
+}
